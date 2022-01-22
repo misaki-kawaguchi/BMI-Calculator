@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import 'package:bmi_calculator/constants.dart';
 
 // カードの中身（性別選択）
 class IconContent extends StatelessWidget {
